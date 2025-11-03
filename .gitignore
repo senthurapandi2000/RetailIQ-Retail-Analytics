@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE files
+.idea/
+.vscode/
+
+# Raw dataset
+data/raw/*.xlsx
+data/raw/*.xls
+data/raw/*.csv
+
+# Large generated data
+data/processed/retail_transactions_clean.csv
+data/processed/data_exceptions.csv
+data/processed/retailiq.db
+data/processed/*.db
+data/processed/*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+~$*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
