@@ -1,0 +1,10 @@
+column,data_type,total_rows,missing_values,unique_values,missing_percentage
+Invoice,str,1067371,0,53628,0.0
+StockCode,str,1067371,0,5305,0.0
+Description,object,1067371,4382,5698,0.41
+Quantity,int64,1067371,0,1057,0.0
+InvoiceDate,datetime64[us],1067371,0,47635,0.0
+Price,float64,1067371,0,2807,0.0
+Customer ID,float64,1067371,243007,5942,22.77
+Country,str,1067371,0,43,0.0
+source_sheet,str,1067371,0,2,0.0
