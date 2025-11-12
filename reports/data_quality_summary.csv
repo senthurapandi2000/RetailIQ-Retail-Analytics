@@ -1,0 +1,21 @@
+metric,value
+Total rows,1067371
+Total columns,9
+Duplicate rows,12133
+Missing customer IDs,243007
+Missing descriptions,4382
+Missing invoice dates,0
+Blank descriptions,0
+Blank countries,0
+Cancelled transaction rows,19494
+Unique cancelled invoices,8292
+Negative quantities,22950
+Zero quantities,0
+Negative prices,5
+Zero prices,6202
+Unique invoices,53628
+Unique customers,5942
+Unique products,5305
+Unique countries,43
+Earliest invoice date,2009-12-01 07:45:00
+Latest invoice date,2011-12-09 12:50:00
