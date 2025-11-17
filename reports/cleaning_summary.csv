@@ -1,0 +1,14 @@
+metric,value
+Raw rows,1067371.0
+Exact duplicates removed,12133.0
+Rows after deduplication,1055238.0
+Valid sales rows,1029609.0
+Valid sales with customer ID,793609.0
+Cancelled rows,19433.0
+Return or negative-quantity rows,22889.0
+Rows missing customer ID,242870.0
+Zero-price rows,6191.0
+Negative-price rows,5.0
+Exception rows,6196.0
+Total valid sales revenue,20913891.45
+Total recorded return value,1524161.95
